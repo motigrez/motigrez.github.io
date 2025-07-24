@@ -23,13 +23,13 @@ repository               : "motigrez/motigrez.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rui Ge"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Undergraduate at Shanghai Jiao Tong University(SJTU)"
+  location         : "Shanghai, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "motigrez@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
