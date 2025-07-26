@@ -5,9 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## About Me
-
-I am Rui Ge, an undergraduate student at Shanghai Jiao Tong University (SJTU), where I am pursuing my studies with a focus on cutting-edge research in artificial intelligence and federated learning. My academic journey is driven by a passion for innovative problem-solving and advancing technology through collaborative and interdisciplinary approaches.
+I am Rui Ge, an undergraduate student at Shanghai Jiao Tong University (SJTU), where I am pursuing my studies with a focus on cutting-edge research in artificial intelligence and Large Language Models. My academic journey is driven by a passion for innovative problem-solving and advancing technology through collaborative and interdisciplinary approaches.
 
 ## Research Experience
 
