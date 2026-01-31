@@ -5,33 +5,54 @@ permalink: /
 author_profile: true
 ---
 
-I am Rui Ge, an undergraduate student at Shanghai Jiao Tong University (SJTU), where I am pursuing my studies with a focus on cutting-edge research in artificial intelligence and Large Language Models. My academic journey is driven by a passion for innovative problem-solving and advancing technology through collaborative and interdisciplinary approaches.
+I am Rui Ge, an final-year undergraduate student at Shanghai Jiao Tong University (SJTU). Currently I am a research intern at UC San Diego, advised by Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/). 
 
-## Research Experience
+Email: motigrez@sjtu.edu.cn
 
-- **Adaptive Multi-Agent System Generation with Large Language Models** (Nov 2024 - Feb 2025)  
-  As a Researcher under Prof. Siheng Chen at SJTU and Shanghai AI Lab, I proposed a novel framework for automating multi-agent workflow generation using large language models, enhancing structured coordination for complex reasoning tasks.
+## Research Interests
+- Efficient ML Systems
+- LLM Agentic Learning
+- LLM Reasoing & Reinforce Learning
 
-- **Towards Context-Aware LLM Agent: Data Pruning for Sensor Data Comprehension** (Oct 2024 - Feb 2025)  
-  As the Main Researcher under Prof. Zhenzhe Zheng at SJTU, I designed a technique to map sensor data into semantic space with data pruning, reducing inference costs while enabling LLMs to interpret sensor data effectively.
+## Publications
+\* indicates equal contribution
 
-- **Synthetic Data Generation from Unstructured Text for Federated Instruction Tuning** (Jul 2024 - Oct 2024)  
-  As the Main Researcher under Prof. Siheng Chen, I developed FedIT-U2S, a framework transforming unstructured text into high-quality instruction data for federated learning, eliminating the need for manual annotation.
+- **Internalizing Agency from Reflective Experience**
+  
+  **Rui Ge**, Yichao Fu, Yuyang Qian, Junda Su, Yiming Zhao, Peng Zhao, Hao Zhang
 
-- **Real-World Benchmarks for Federated Large Language Models** (Jan 2024 - Jun 2024)  
-  As the Main Researcher under Prof. Siheng Chen, I created FedLLLM-Bench, the first benchmark suite for federated large language models, integrating diverse corpora to evaluate performance under realistic constraints.
+  *Submitted to ICML 2026*
 
-## Honors and Awards
+- [**Scaling Speculative Decoding with Lookahead Reasoning**](https://arxiv.org/abs/2506.19830)
 
-- Rongchang Science and Technology Innovation Scholarship (¥10,000) - Shanghai Rongchang Public Welfare Foundation & SJTU, 2024
-- Zhiyuan Honor Program Scholarship (¥5,000 per year) - Zhiyuan College, SJTU, 2022, 2023, 2024
-- Reviewer of ICML 2025 Workshop, 2025
+  Yichao Fu, **Rui Ge**, Zelei Shao, Zhijie Deng, Hao Zhang
 
-## Skills
+  *NeurIPS 2025*
 
-- **Languages**: Mandarin Chinese (native), English (TOEFL 108/120)
-- **Programming**: Python, C++, C
-- **Technologies**: Instruction Fine-Tuning, Direct Preference Optimization (DPO), Prompt Engineering, Multi-Agent System Design, Web Scraping
-- **Tools**: PyTorch, Transformers, LaTeX, Linux
+- [FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models](https://arxiv.org/abs/2406.04845)
 
-I am eager to collaborate on projects that push the boundaries of AI research and application. Feel free to reach out via email at motigrez@sjtu.edu.cn for any opportunities or discussions!
+  Rui Ye*, **Rui Ge***, Xinyu Zhu, Jingyi Chai, Yaxin Du, Yang Liu, Yanfeng Wang, Siheng Chen
+
+  *NeurIPS 2024 D&B Track*
+
+- [Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2409.07136)
+
+  Rui Ye*, **Rui Ge***, Yuchi Fengting, Jingyi Chai, Yanfeng Wang, Siheng Chen
+
+  *FL@FM-NeurIPS'24 (Oral)*
+
+- [MAS-GPT: Training LLMs to build LLM-based multi-agent systems](https://arxiv.org/abs/2503.03686)
+
+  Rui Ye, Shuo Tang, **Rui Ge**, Yaxin Du, Zhenfei Yin, Siheng Chen, Jing Shao
+
+  *ICML 2025*
+
+- [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution](https://arxiv.org/abs/2510.25726)
+
+  Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, **Rui Ge**, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He
+
+  *ICLR 2026*
+
+
+
+
