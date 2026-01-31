@@ -29,25 +29,25 @@ Email: motigrez@sjtu.edu.cn
 
   *NeurIPS 2025*
 
-- [FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models](https://arxiv.org/abs/2406.04845)
+- [**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**](https://arxiv.org/abs/2406.04845)
 
   Rui Ye*, **Rui Ge***, Xinyu Zhu, Jingyi Chai, Yaxin Du, Yang Liu, Yanfeng Wang, Siheng Chen
 
   *NeurIPS 2024 D&B Track*
 
-- [Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models](https://arxiv.org/abs/2409.07136)
+- [**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**](https://arxiv.org/abs/2409.07136)
 
   Rui Ye*, **Rui Ge***, Yuchi Fengting, Jingyi Chai, Yanfeng Wang, Siheng Chen
 
   *FL@FM-NeurIPS'24 (Oral)*
 
-- [MAS-GPT: Training LLMs to build LLM-based multi-agent systems](https://arxiv.org/abs/2503.03686)
+- [**MAS-GPT: Training LLMs to build LLM-based multi-agent systems**](https://arxiv.org/abs/2503.03686)
 
   Rui Ye, Shuo Tang, **Rui Ge**, Yaxin Du, Zhenfei Yin, Siheng Chen, Jing Shao
 
   *ICML 2025*
 
-- [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution](https://arxiv.org/abs/2510.25726)
+- [**The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution**](https://arxiv.org/abs/2510.25726)
 
   Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, **Rui Ge**, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He
 
