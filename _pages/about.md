@@ -17,7 +17,7 @@ Email: motigrez@sjtu.edu.cn
 ## Publications
 \* indicates equal contribution
 
-- **Internalizing Agency from Reflective Experience**
+- [**Internalizing Agency from Reflective Experience**](https://arxiv.org/abs/2603.16843)
   
   **Rui Ge**, Yichao Fu, Yuyang Qian, Junda Su, Yiming Zhao, Peng Zhao, Hao Zhang
 
