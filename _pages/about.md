@@ -31,13 +31,13 @@ Email: motigrez@sjtu.edu.cn
 
 - [**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**](https://arxiv.org/abs/2406.04845)
 
-  Rui Ye*, **Rui Ge***, Xinyu Zhu, Jingyi Chai, Yaxin Du, Yang Liu, Yanfeng Wang, Siheng Chen
+  Rui Ye\*, **Rui Ge\***, Xinyu Zhu, Jingyi Chai, Yaxin Du, Yang Liu, Yanfeng Wang, Siheng Chen
 
   *NeurIPS 2024 D&B Track*
 
 - [**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**](https://arxiv.org/abs/2409.07136)
 
-  Rui Ye*, **Rui Ge***, Yuchi Fengting, Jingyi Chai, Yanfeng Wang, Siheng Chen
+  Rui Ye\*, **Rui Ge\***, Yuchi Fengting, Jingyi Chai, Yanfeng Wang, Siheng Chen
 
   *FL@FM-NeurIPS'24 (Oral)*
 
