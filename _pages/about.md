@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Hi! I am Rui Ge, a first-year PhD in Computer Science at University of Texas at Austin, supervised by Prof. [Yizhong Wang](https://yizhong-wang.com/). Before that, I received my bachelor degree in Computer Science from Shanghai Jiao Tong University (SJTU). I am also fortunate to work with Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at UC San Diego.
+Hi! I am Rui Ge, a first-year PhD student in Computer Science at University of Texas at Austin, supervised by Prof. [Yizhong Wang](https://yizhong-wang.com/). Before that, I received my bachelor degree in Computer Science from Shanghai Jiao Tong University (SJTU). I am also fortunate to work with Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at UC San Diego.
 
 Email: ruige@utexas.edu
 
