@@ -25,11 +25,11 @@ author:
   avatar           : "avatar.jpg"
   name             : "Rui Ge"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate at Shanghai Jiao Tong University(SJTU)"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "PhD Student in Computer Science at UT Austin"
+  location         : "Austin, TX"
+  employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "motigrez@sjtu.edu.cn" 
+  email            : "ruige@utexas.edu" 
 
   # Academic websites
   academia         : # URL
