@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-I am Rui Ge, an final-year undergraduate student at Shanghai Jiao Tong University (SJTU). Currently I am a research intern at UC San Diego, advised by Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/). 
+Hi! I am Rui Ge, a first-year PhD in Computer Science at University of Texas at Austin, supervised by Prof. [Yizhong Wang](https://yizhong-wang.com/). Before that, I received my bachelor degree in Computer Science from Shanghai Jiao Tong University (SJTU). I am also fortunate to work with Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at UC San Diego.
 
-Email: motigrez@sjtu.edu.cn
+Email: ruige@utexas.edu
 
 ## Research Interests
 - Efficient ML Systems
