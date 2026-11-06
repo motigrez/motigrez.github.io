@@ -1,0 +1,13 @@
+- institution: The University of Texas at Austin
+  degree: Ph.D. in Computer Science
+  dates: Aug 2026 - Present
+  advisor: Prof. Yizhong Wang
+  advisor_url: https://yizhong-wang.com/
+  logo: /images/education/ut-austin.png
+  logo_source: https://yuyang-song.github.io/images/utaustin.png
+
+- institution: Shanghai Jiao Tong University
+  degree: B.Eng. in Computer Science and Technology
+  dates: Sep 2022 - Jun 2026
+  logo: /images/education/sjtu.png
+  logo_source: https://vi.sjtu.edu.cn/img/base/Logo.png

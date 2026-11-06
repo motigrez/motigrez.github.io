@@ -3,56 +3,25 @@ layout: single
 title: "About Me"
 permalink: /
 author_profile: true
+homepage: true
 ---
 
-Hi! I am Rui Ge, a first-year PhD student in Computer Science at University of Texas at Austin, supervised by Prof. [Yizhong Wang](https://yizhong-wang.com/). Before that, I received my bachelor degree in Computer Science from Shanghai Jiao Tong University (SJTU). I am also fortunate to work with Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at UC San Diego.
+<div id="about-me" class="homepage-intro" markdown="1">
 
-Email: ruige@utexas.edu
+Hi! I am **Rui Ge**, a first-year Ph.D. student in Computer Science at The University of Texas at Austin, advised by Prof. [Yizhong Wang](https://yizhong-wang.com/). I received my B.Eng. in Computer Science and Technology from the **Zhiyuan Honors Program** at Shanghai Jiao Tong University. I have also been fortunate to work with Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at UC San Diego.
 
-## Research Interests
-- Efficient ML Systems
-- LLM Agentic Learning
-- LLM Reasoing & Reinforce Learning
+My research focuses on **LLM agents, reinforcement learning, and efficient ML systems**. I am interested in helping language agents learn from interaction and experience, and in making reasoning and inference more efficient.
 
-## Publications
-\* indicates equal contribution
+Email: [ruige@utexas.edu](mailto:ruige@utexas.edu)
 
-- [**Internalizing Agency from Reflective Experience**](https://arxiv.org/abs/2603.16843)
-  
-  **Rui Ge**, Yichao Fu, Yuyang Qian, Junda Su, Yiming Zhao, Peng Zhao, Hao Zhang
+</div>
 
-  *Submitted to ICML 2026*
+## Selected Publications
 
-- [**Scaling Speculative Decoding with Lookahead Reasoning**](https://arxiv.org/abs/2506.19830)
+<p class="publication-note">Full publication list on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
 
-  Yichao Fu, **Rui Ge**, Zelei Shao, Zhijie Deng, Hao Zhang
+{% include selected-publications.html %}
 
-  *NeurIPS 2025*
+## Education
 
-- [**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**](https://arxiv.org/abs/2406.04845)
-
-  Rui Ye\*, **Rui Ge\***, Xinyu Zhu, Jingyi Chai, Yaxin Du, Yang Liu, Yanfeng Wang, Siheng Chen
-
-  *NeurIPS 2024 D&B Track*
-
-- [**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**](https://arxiv.org/abs/2409.07136)
-
-  Rui Ye\*, **Rui Ge\***, Yuchi Fengting, Jingyi Chai, Yanfeng Wang, Siheng Chen
-
-  *FL@FM-NeurIPS'24 (Oral)*
-
-- [**MAS-GPT: Training LLMs to build LLM-based multi-agent systems**](https://arxiv.org/abs/2503.03686)
-
-  Rui Ye, Shuo Tang, **Rui Ge**, Yaxin Du, Zhenfei Yin, Siheng Chen, Jing Shao
-
-  *ICML 2025*
-
-- [**The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution**](https://arxiv.org/abs/2510.25726)
-
-  Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, **Rui Ge**, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He
-
-  *ICLR 2026*
-
-
-
-
+{% include education.html %}

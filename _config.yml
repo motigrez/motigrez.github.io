@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Rui Ge"
 title_separator          : "-"
 name                     : &name "Rui Ge"
-description              : &description "personal description"
+description              : &description "Rui Ge is a Ph.D. student in Computer Science at UT Austin, working on LLM agents, reinforcement learning, and efficient ML systems."
 url                      : https://motigrez.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "motigrez/motigrez.github.io"
@@ -22,7 +22,7 @@ repository               : "motigrez/motigrez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "rui-ge.jpg"
   name             : "Rui Ge"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science at UT Austin"
